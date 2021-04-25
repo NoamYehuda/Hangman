@@ -7,5 +7,5 @@ Live Link: https://noam-hangman.netlify.app/
 
 If you want to download this file you need to run "npm install" to get the node modules folder.
 
-A project I did as part of "The Modern JavaScript Bootcamp" course at udemy. 
+Project I did as part of "The Modern JavaScript Bootcamp" course at udemy. 
 This Hangman game was crated with JavaScript, HTML, CSS, Webpack, Babel.
