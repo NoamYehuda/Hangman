@@ -5,7 +5,7 @@ Simply begin teyping your guesses, you only have 5 guesses.
 
 Live Link: https://noam-hangman.netlify.app/
 
-If you want to download this file you need to run "npm install" to get the node modules folder.
+If you want to run those files you need to install the Node Modules: npm install
 
 This Hangman game was crated with JavaScript, HTML, CSS, Webpack, Babel.
 
